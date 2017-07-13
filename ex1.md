@@ -34,3 +34,7 @@ I think you should use an
 
 ~Inline code is as follow.~
 `c= sum(a, b)` element here instead.
+
+* This is item mark work
+
+\* This item mark not work with "\"
