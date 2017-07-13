@@ -32,5 +32,5 @@ no bold Quote<b>
 I think you should use an
 `<addr>` element here instead.   
 
-Inline code is as follow.
+~Inline code is as follow.~
 `c= sum(a, b)` element here instead.
