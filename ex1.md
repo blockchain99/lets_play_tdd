@@ -33,4 +33,4 @@ I think you should use an
 `<addr>` element here instead.   
 
 Inline code is as follow.
-`<addr>` element here instead.
+`<c= sum(a, b)>` element here instead.
