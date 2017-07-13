@@ -17,3 +17,7 @@ no bold Quote<b>
 &emsp; tab indent<br>
 &nbsp; space indent
 </blockquote>
+
+- [x] Finish my changes
+- [ ] Push my commits to GitHub
+- [ ] Open a pull request
