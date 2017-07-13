@@ -27,6 +27,6 @@ no bold Quote<b>
 1. Item 2
 1. Item 3
    1. Item 3a
-   1. Item 3b<br>
+   1. Item 3b<br><br>
 I think you should use an
 `<addr>` element here instead.   
