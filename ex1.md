@@ -38,3 +38,10 @@ I think you should use an
 * This is item mark work
 
 \* This item mark not work with "\"
+
+Frist row | second row
+------------------------ | ------------------------------------
+this is the sampel | this is the sampel and 
+That <br> | second instance is ..
+Taht2 <br>
+so thisss <br>
